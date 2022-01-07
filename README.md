@@ -31,7 +31,8 @@ Every 10 minutes are acquired and stored the following measures:
 
 
 ## Dataset
-Data was acquired on 3 twin equipment at the same interval time with different operating conditions.
+Data was acquired from 3 twin equipment at the same interval time with different operating conditions.
+
 ![dryer_3_down](docs/dryer_3_down.png)
 
 ![dryer_1_up](docs/dryer_1_up.png)
