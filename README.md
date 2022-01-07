@@ -1,2 +1,2 @@
-# vibration-analysis
-Temporal vibration analysis applied to predictive maintenance
+# Vibration Analysis applied to Predictive Maintenance
+
