@@ -15,6 +15,9 @@ The goals of the project are:
 
 ![iso10816](docs/iso10816.png)
 
+## System Configuration
+
+
 ## Dataset
 
 ![dryer_3_down](docs/dryer_3_down.png)
