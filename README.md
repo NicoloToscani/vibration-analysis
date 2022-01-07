@@ -43,14 +43,18 @@ Failure:
 ![dryer_3_down](docs/dryer_3_down.png)
 
 **Machine 2**
+
+Failure:
+- no failure
  
 ![dryer_1_up](docs/dryer_1_up.png)
 
 **Machine 3**
 
+Failure:
+- no failure
+
 ![dryer_1_down](docs/dryer_1_down.png)
-
-
 
 ## Acquisition Equipment
 
