@@ -4,9 +4,13 @@ The goal is to identify and predict failures in rotating machinery using high fr
 
 ![dryer_3_down](docs/dryer_3_down.png)
 
-## Goal
+## Goals
+The goals of the project are: 
 
-In order for the application to work, it is necessary to insert some elements inside your WinCC Unified project, including :
+- **"EdgeSentronTags"** Table Variables;
+- **"EdgeSentronTags"** Table Variables;
+
+
 
 - **"EdgeSentronTags"** Table Variables;
 
