@@ -1,6 +1,6 @@
 # Vibration Analysis for Predictive Maintenance
 ## Predictive maintenance
-Identify and predict failures in rotating machinery using high frequency vibration data to classify its behavior as normal or anomalous and generating alerts.
+Identify and predict failures in rotating machinery using high frequency vibration data to classify its behavior as normal or anomalous and generating alerts when not all system are known.
 
 ![dryer_3_down](docs/dryer_3_down.png)
 
