@@ -16,6 +16,12 @@ The goals of the project are:
 ![iso10816](docs/iso10816.png)
 
 ## System Configuration
+The system is composed by:
+- Asynchronous motor 110 Kw, 195 A
+- Engine pulley
+- Fan
+
+
 Every 10 minutes are acquired and stored the following measures:
 - Z-Axis RMS Velocity (mm/sec)
 - X-Axis RMS Velocity (mm/sec)
