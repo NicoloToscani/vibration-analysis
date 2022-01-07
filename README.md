@@ -7,12 +7,12 @@ The goal is to identify and predict failures in rotating machinery using high fr
 ## Goals
 The goals of the project are: 
 
-- **"EdgeSentronTags"** Table Variables;
-- **"EdgeSentronTags"** Table Variables;
+- **Compare monitored values with the "ISO" standard;
+- **Create a model using differents Machine Learning Techniques;
 
 
 
-- **"EdgeSentronTags"** Table Variables;
+
 
 ### Load App on Unified Comfort Panels
 
