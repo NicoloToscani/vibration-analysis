@@ -7,11 +7,11 @@ The goal is to identify and predict failures in rotating machinery using high fr
 ## Goals
 The goals of the project are: 
 
-- Compare monitored values with the "ISO" standard;
+- Compare monitored values with the **ISO** standard;
 - Create a model using differents machine learning techniques;
 
 ### ISO 10816
-ISO 10816 provides guidance for evaluating vibration velocity severity motors, pumps, fans, compressors, gear boxes, blowers, dryers, presses and other machines that operate in the 10 to 1000 Hz frequency range.
+**ISO10816** provides guidance for evaluating vibration velocity severity motors, pumps, fans, compressors, gear boxes, blowers, dryers, presses and other machines that operate in the 10 to 1000 Hz frequency range.
 
 ![iso10816](docs/iso10816.png)
 
