@@ -33,11 +33,15 @@ Every 10 minutes are acquired and stored the following measures:
 ## Dataset
 Data was acquired from 3 twin equipment at the same interval time with different operating conditions.
 
-This graph shows the machine that has failed during operation:
+These graphs show the measured values from 3 different equipments
 
 ![dryer_3_down](docs/dryer_3_down.png)
 
+Machine 2
+
 ![dryer_1_up](docs/dryer_1_up.png)
+
+Machine 3
 
 ![dryer_1_down](docs/dryer_1_down.png)
 
