@@ -7,8 +7,8 @@ The goal is to identify and predict failures in rotating machinery using high fr
 ## Goals
 The goals of the project are: 
 
-- **Compare monitored values with the "ISO" standard;
-- **Create a model using differents Machine Learning Techniques;
+- Compare monitored values with the "ISO" standard;
+- Create a model using differents machine learning techniques;
 
 
 
@@ -20,12 +20,6 @@ The goals of the project are:
 2. Open the Industrial Edge Management Web Page of UCP on ```https://<ucp-address>```
 3. Import the .app file using the *Import Offline* button
 4. Wait until App is installed
-
-## WinCC Unified Configuration
-
-In order for the application to work, it is necessary to insert some elements inside your WinCC Unified project, including :
-
-- **"EdgeSentronTags"** Table Variables;
 
 ![dryer_3_down](docs/dryer_3_down.png)
 
