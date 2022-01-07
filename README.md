@@ -16,6 +16,11 @@ The goals of the project are:
 ![iso10816](docs/iso10816.png)
 
 ## System Configuration
+Every 10 minutes are acquired and stored the following measures:
+- Z-Axis RMS Velocity (mm/sec)
+- X-Axis RMS Velocity (mm/sec)
+- Z-Axis High-Frequency RMS Acceleration (G)
+- X-Axis High-Frequency RMS Acceleration (G)
 
 
 ## Dataset
