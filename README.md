@@ -12,6 +12,7 @@ The goals of the project are:
 
 ### ISO 10816
 ISO 10816 provides guidance for evaluating vibration velocity severity motors, pumps, fans, compressors, gear boxes, blowers, dryers, presses and other machines that operate in the 10 to 1000 Hz frequency range.
+
 ![iso10816](docs/iso10816.png)
 
 ![dryer_3_down](docs/dryer_3_down.png)
