@@ -27,6 +27,5 @@ The goals of the project are:
 
 ## Acquisition Equipment
 
-The  has been developed and tested on:
 + Vibration and temperature sensor QM42VT2
 + Compact I/O Module for serial data transmission TBEN-S2-2COM-4DXP
