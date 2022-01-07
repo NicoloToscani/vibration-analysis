@@ -43,7 +43,7 @@ Failure:
 ![dryer_3_down](docs/dryer_3_down.png)
 
 **Machine 2**
-
+ 
 ![dryer_1_up](docs/dryer_1_up.png)
 
 **Machine 3**
