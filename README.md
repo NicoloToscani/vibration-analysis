@@ -25,8 +25,8 @@ The goals of the project are:
 
 
 
-## Equipment Compatibility
+## Acquisition Equipment
 
-This module has been developed and tested on:
+The  has been developed and tested on:
 + Vibration and temperature sensor QM42VT2
 + Compact I/O Module for serial data transmission TBEN-S2-2COM-4DXP
