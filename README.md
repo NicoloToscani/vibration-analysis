@@ -10,16 +10,9 @@ The goals of the project are:
 - Compare monitored values with the "ISO" standard;
 - Create a model using differents machine learning techniques;
 
-
-
-
-
-### Load App on Unified Comfort Panels
-
-1. Copy the downloaded ```sentron-edge_x.x.x.app``` file to your Developer PC.
-2. Open the Industrial Edge Management Web Page of UCP on ```https://<ucp-address>```
-3. Import the .app file using the *Import Offline* button
-4. Wait until App is installed
+### ISO 10816
+ISO 10816 provides guidance for evaluating vibration velocity severity motors, pumps, fans, compressors, gear boxes, blowers, dryers, presses and other machines that operate in the 10 to 1000 Hz frequency range.
+![iso10816](docs/iso10816.png)
 
 ![dryer_3_down](docs/dryer_3_down.png)
 
@@ -27,7 +20,7 @@ The goals of the project are:
 
 ![dryer_1_down](docs/dryer_1_down.png)
 
-![iso10816](docs/iso10816.png)
+
 
 ## Equipment Compatibility
 
