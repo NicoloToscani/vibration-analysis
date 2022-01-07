@@ -1,2 +1,2 @@
-# Vibration Analysis applied to Predictive Maintenance
+# Vibration Analysis for Predictive Maintenance
 
