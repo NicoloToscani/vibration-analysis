@@ -1,6 +1,6 @@
 # Vibration Analysis for Predictive Maintenance
 ## Predictive maintenance
-The goal is predict a system failure in the figure using a set of vibration values recorded during operation.
+The goal is to identify and predict failures in rotating machinery using high frequency vibration data to classify its behavior as normal or anomalous and generating alerts.
 
 ![dryer_3_down](docs/dryer_3_down.png)
 
