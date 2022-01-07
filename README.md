@@ -35,13 +35,14 @@ Data was acquired from 3 twin equipments at the same interval time with differen
 
 These graphs show the measured values from 3 different equipments
 
+**Machine 1** - 
 ![dryer_3_down](docs/dryer_3_down.png)
 
-Machine 2
+**Machine 2**
 
 ![dryer_1_up](docs/dryer_1_up.png)
 
-Machine 3
+**Machine 3**
 
 ![dryer_1_down](docs/dryer_1_down.png)
 
