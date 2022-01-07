@@ -31,7 +31,7 @@ Every 10 minutes are acquired and stored the following measures:
 
 
 ## Dataset
-Data was acquired from 3 twin equipment at the same interval time with different operating conditions.
+Data was acquired from 3 twin equipments at the same interval time with different operating conditions.
 
 These graphs show the measured values from 3 different equipments
 
