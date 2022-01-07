@@ -20,6 +20,7 @@ The system is composed by:
 - Asynchronous motor 110 Kw, 195 A
 - Engine pulley
 - Fan
+- Vibration sensor mounted on asyncorouns motor
 
 
 Every 10 minutes are acquired and stored the following measures:
