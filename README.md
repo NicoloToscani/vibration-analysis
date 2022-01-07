@@ -35,7 +35,11 @@ Data was acquired from 3 twin equipments at the same interval time with differen
 
 These graphs show the measured values from 3 different equipments
 
-**Machine 1** - 
+**Machine 1**
+
+Failure:
+- replaced bearing between motor and pulley
+
 ![dryer_3_down](docs/dryer_3_down.png)
 
 **Machine 2**
