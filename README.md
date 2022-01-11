@@ -61,7 +61,7 @@ Failures:
 + Vibration and temperature sensor QM42VT2
 + Compact I/O Module for serial data transmission TBEN-S2-2COM-4DXP
 
-## Algorithms
+## Machine Learning Algorithms
 Several algorithms are evaluated for model creation:
 
 + K-means
