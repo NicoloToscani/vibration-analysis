@@ -15,6 +15,11 @@ The goals of the project are:
 
 ![iso10816](docs/iso10816.png)
 
+## Machine Learning Algorithms
+Several algorithms are evaluated for model creation:
+
++ K-means
+
 ## System Configuration
 The system is composed by:
 - Asynchronous motor 110 Kw, 195 A
@@ -61,7 +66,4 @@ Failures:
 + Vibration and temperature sensor QM42VT2
 + Compact I/O Module for serial data transmission TBEN-S2-2COM-4DXP
 
-## Machine Learning Algorithms
-Several algorithms are evaluated for model creation:
 
-+ K-means
