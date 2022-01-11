@@ -16,7 +16,7 @@ The goals of the project are:
 ![iso10816](docs/iso10816.png)
 
 ## Machine Learning Algorithms
-Several algorithms are evaluated for model creation:
+Some algorithms are evaluated for model creation:
 
 + K-means
 
