@@ -20,7 +20,7 @@ The system is composed by:
 - Asynchronous motor 110 Kw, 195 A
 - Engine pulley
 - Fan
-- Vibration sensor mounted on asynchronous motor
+- Vibration sensor installed on asynchronous motor
 
 
 Every 10 minutes are acquired and stored the following measures:
@@ -37,21 +37,21 @@ These graphs show the measured values from 3 different equipments
 
 **Machine 1**
 
-Failure:
+Failures:
 - replaced bearing between motor and pulley
 
 ![dryer_3_down](docs/dryer_3_down.png)
 
 **Machine 2**
 
-Failure:
+Failures:
 - no failure
  
 ![dryer_1_up](docs/dryer_1_up.png)
 
 **Machine 3**
 
-Failure:
+Failures:
 - no failure
 
 ![dryer_1_down](docs/dryer_1_down.png)
