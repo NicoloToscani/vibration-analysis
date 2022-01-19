@@ -46,7 +46,7 @@ These graphs show the measured values from 3 different equipments
 Failures:
 - replaced bearing between motor and pulley
 
-![dryer_3_down](docs/dryer_3_down_clusters.png)
+![dryer_3_down](docs/dryer_3_down.png)
 
 **Machine 2**
 
