@@ -19,6 +19,7 @@ The goals of the project are:
 Some algorithms are evaluated for model creation:
 
 ### KMeans
+![kmeans](docs/dryer_3_down_clusters.png)
 
 
 ## System Configuration
