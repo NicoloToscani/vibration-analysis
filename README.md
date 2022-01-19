@@ -18,7 +18,8 @@ The goals of the project are:
 ## Machine Learning Algorithms
 Some algorithms are evaluated for model creation:
 
-+ K-means
+### KMeans
+![dryer_3_down_clusters](docs/dryer_3_down_clusters.png)
 
 ## System Configuration
 The system is composed by:
