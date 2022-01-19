@@ -21,7 +21,9 @@ Some algorithms are evaluated for model creation:
 ### KMeans
 ![kmeans](docs/dryer_3_down_kmeans.png)
 
-Machine 1 with failure.
+Machine 1 with failure:
+- Cluster 0 (blue): good
+- Cluster 1 (red): no good
 
 ## System Configuration
 The system is composed by:
