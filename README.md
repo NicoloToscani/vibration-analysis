@@ -23,7 +23,7 @@ Some algorithms are evaluated for model creation:
 
 Machine 1 with failure:
 - Cluster 0 (blue): good
-- Cluster 1 (red): no good
+- Cluster 1 (red): not good
 
 ## System Configuration
 The system is composed by:
