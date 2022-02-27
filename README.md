@@ -27,6 +27,7 @@ Machine 1 with failure:
 
 ### Autoencoder
 Autoencoder can be used as an anomaly detection algorithm when we have a lot of good examples and only a few anomalies.
+
 Are trained to minimize reconstruction error.
 
 ## System Configuration
