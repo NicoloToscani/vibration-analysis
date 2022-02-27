@@ -25,6 +25,10 @@ Machine 1 with failure:
 - Cluster 0 (blue): good
 - Cluster 1 (red): not good
 
+### Autoencoder
+Autoencoder can be used as an anomaly detection algorithm when we have a lot of good examples and only a few anomalies.
+Are trained to minimize reconstruction error.
+
 ## System Configuration
 The system is composed by:
 - Asynchronous motor 110 Kw, 195 A
