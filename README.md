@@ -36,11 +36,12 @@ The system is composed by:
 - Vibration sensor installed on asynchronous motor
 
 
-Every 10 minutes are acquired and stored the following measures:
+Every 30 minutes are acquired and stored the following measures:
 - Z-Axis RMS Velocity (mm/sec)
 - X-Axis RMS Velocity (mm/sec)
 - Z-Axis High-Frequency RMS Acceleration (G)
 - X-Axis High-Frequency RMS Acceleration (G)
+- Motor command frequency (Hz)
 
 
 ## Dataset
