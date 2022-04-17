@@ -26,6 +26,8 @@ Machine 1 with failure:
 - Cluster 1 (red): not good
 
 ### Autoencoder
+![autoencoder_thr](docs/autoencoder_thr.png)
+
 Autoencoder can be used as an anomaly detection algorithm when we have a lot of good examples and only a few anomalies trained to minimize reconstruction error.
 
 ## System Configuration
