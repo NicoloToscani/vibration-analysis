@@ -1,4 +1,11 @@
 # Vibration Analysis for Predictive Maintenance
+## Maintenance philosophies
+There are different type of maintenance philosophies can usually be divided into four different categories:
+- Breakdown or run to failure maintenance
+- Preventive or time-based maintenance
+- Predictive or condition-based maintenance
+- Proactive or prevention maintenance
+
 ## Predictive maintenance
 Identify and predict failures in rotaring machinery using high frequency vibration data to classify its behavior as normal or anomalous and generating alerts when not all system parameters are known.
 
